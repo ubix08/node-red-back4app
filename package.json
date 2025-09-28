@@ -1,0 +1,11 @@
+{
+  "name": "node-red-back4app",
+  "version": "1.0.0",
+  "description": "Node-RED on Back4app",
+  "scripts": {
+    "start": "node-red"
+  },
+  "dependencies": {
+    "node-red": "^4.0.0"
+  }
+}
